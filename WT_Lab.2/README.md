@@ -26,8 +26,9 @@ Next step was to create a controller. As I said controller is the first recipien
 
 Next I created all my views, it was not that hard because I already had them from WT_Lab.1. All I had to do is to structure them. By structuring I mean adding a template called _Layout_. It was done in order not to repeat the same piece of code for every view. In _layout_ file you may find the bundles I had configured and some partial vies such as: header, navigation and footer. In my case I have no footer and because my navigation bar is placed on the top of the page my navigation serves me as a header, that's header's file is also empty.
 
-In order to make everything working I installed some packages such as bootstrap and jquery, their files where added in Content and Scripts folders. I mention these two because I used them in Bundle configuration.
+In order to make everything working I installed some packages such as bootstrap and jquery, their files where added in Content and Scripts folders. I mention these two because I used them in Bundle configuration. I want to mention here that I added bootstrap manually because the version provided by nuget manager was not convenient for me.
 
 In order to start my project you need Visual Studio. Open my project and run it. It is simple!  
 
 ### Conclusion
+In this laboratory work I learned about MVC pattern and how it is used in order to build a web application. I understand how it works and what is the connection between controllers, views and models. The MVC pattern helps us to create applications that separate the different aspects of the application.
