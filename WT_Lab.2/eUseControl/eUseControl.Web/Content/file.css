@@ -1,0 +1,60 @@
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+carousel-inner img {
+	width: 100%;
+	margin: auto;
+	min-height: 200px;
+}
+
+body {
+	background-color: #000000;
+}
+
+.jumbotron {
+	background-color: #000000;
+	color: White;
+	text-align: center;
+	margin-bottom: 0;
+}
+
+#jumbotron1 {
+	background-color: Black;
+	color: White;
+	font-family: cursive;
+}
+
+#p1 {
+	text-align: right;
+}
+
+#my1-col-xs-6 {
+	background-color: #000000;
+	color: White;
+	text-align: right;
+}
+
+#my2-col-xs-6 {
+	background-color: #000000;
+	color: White;
+	text-align: left;
+}
+
+#li1 {
+	background-color: #000000;
+}
+
+#ul1 {
+	text-align: right;
+}
+
+#ul2 {
+	text-align: left;
+}
+
+#online-logo {
+	width: 60px;
+	margin-right: 5px;
+}
