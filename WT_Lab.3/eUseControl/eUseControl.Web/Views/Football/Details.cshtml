@@ -1,0 +1,54 @@
+﻿@model IEnumerable<eUseControl.BusinessLogic.DBModel.Product>
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+
+    <div class="row my-2">
+        <h2 style="text-align: center; color: white">Balls</h2>
+        <br />
+    </div>
+
+    <div class="row my-2" style="color: white">
+        Sort by price:
+        @Html.ActionLink("<15", "Price", "Football", new { price = "Low" }, new { @class = "btn bg-success" })
+        @Html.ActionLink(">15", "Price", "Football", new { price = "High" }, new { @class = "btn bg-success" })
+        @Html.ActionLink("All", "Price", "Football", new { price = "All" }, new { @class = "btn bg-success" })
+    </div>
+
+    <br />
+
+    <div class="row my-2" style="color: white">
+            Search by name:
+            @using (Html.BeginForm("Details", "Football"))
+            {
+            <p style="text-align: left; color: black">
+                @Html.TextBox("SearchString")
+                <input type="submit" value="Search" />
+            </p>
+            }
+        
+    </div>
+
+        <div class="row my-2">
+            @foreach (var product in Model)
+            {
+                <div class="col-lg-4 col-sm-6 col-xs-12 mb-2 px-2">
+                    <div class="card bg-success text-white" style="width: 390px">
+                        <img class="card-img-top img-fluid" src="@product.Picture.Replace("~", "" )" alt="Card image" width="390px" height="300px">
+                        <div class="card-body">
+                            <h4 class="card-title p-1">@product.Name</h4>
+                            <p class="card-text p-1">
+                                Brand: @product.Brand.Name
+                                <br />
+                                Price: @product.Price
+                                <br />
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+    </div>

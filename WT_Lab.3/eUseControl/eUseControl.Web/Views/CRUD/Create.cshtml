@@ -1,0 +1,35 @@
+﻿@model BusinessLogic.ViewModels.ProductFormViewModel
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-6 offset-3 my-3" id="table_show_all">
+    <h2 style="text-align: center">Create</h2>
+    <hr />
+    @using (Html.BeginForm("Save", "CRUD"))
+    {
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Name)
+            @Html.TextBoxFor(m => m.Product.Name, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Picture)
+            @Html.TextBoxFor(m => m.Product.Picture, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.Price)
+            @Html.TextBoxFor(m => m.Product.Price, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Product.BrandId)
+            @Html.DropDownListFor(m => m.Product.BrandId, new SelectList(Model.Brands, "Id", "Name"), "Select Brand", new { @class = "form-control" })
+        </div>
+
+        @Html.HiddenFor(m => m.Product.Id);
+        <button type="submit" class="btn btn-success">Save</button>
+    }
+</div>

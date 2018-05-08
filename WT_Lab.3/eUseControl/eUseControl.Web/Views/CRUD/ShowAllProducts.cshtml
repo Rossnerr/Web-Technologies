@@ -1,0 +1,36 @@
+﻿@model IEnumerable<eUseControl.BusinessLogic.DBModel.Product>
+@{
+    ViewBag.Title = "ShowAllProducts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-10 offset-1">
+    <br />
+    <h2 style="text-align: center; color: white">Edit & Delete</h2>
+    <br />
+    <table class="table" id="table_show_all">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Brand</th>
+                <th>Price</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td> @product.Name </td>
+                    <td> @product.Brand.Name</td>
+                    <td> @product.Price </td>
+                    <td> @Html.ActionLink("Edit", "Update", "CRUD", product, new { @class = "btn btn-link" })</td>
+                    <td> @Html.ActionLink("Delete", "Delete", "CRUD", product, new { @class = "btn btn-link" })</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

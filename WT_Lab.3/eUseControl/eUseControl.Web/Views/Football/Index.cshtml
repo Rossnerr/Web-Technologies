@@ -1,0 +1,71 @@
+﻿@model IEnumerable<eUseControl.BusinessLogic.DBModel.Product>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Football";
+}
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="jumbotron">
+            <h3>
+                "The game of life is a lot like football. You have to tackle your problems, block your fears, and
+                score your points when you get the opportunity."
+            </h3>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid">
+    <table class="table" id="table_football">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>View</th>
+                <th>Create</th>
+                <th>Edit & Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Balls</td>
+                <td>
+                    <a href="@Url.Action("Details","Football")" class="btn btn-info" role="button">View</a>                    
+                </td>
+                <td>
+                    <a href="@Url.Action("Create","CRUD")" class="btn btn-info" role="button">Create</a>
+                </td>
+                <td>
+                    <a href="@Url.Action("ShowAllProducts","CRUD")" class="btn btn-info" role="button">Edit & Delete</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Equipment</td>
+                <td>
+                    <a href="#" class="btn btn-info" role="button">View</a>
+                </td>
+                <td>
+                    <a href="#" class="btn btn-info" role="button">Create</a>
+                </td>
+                <td>
+                    <a href="#" class="btn btn-info" role="button">Edit & Delete</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Accesories</td>
+                <td>
+                    <a href="#" class="btn btn-info" role="button">View</a>
+                </td>
+                <td>
+                    <a href="#" class="btn btn-info" role="button">Create</a>
+                </td>
+                <td>
+                    <a href="#" class="btn btn-info" role="button">Edit & Delete</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>

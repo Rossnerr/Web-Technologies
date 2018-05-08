@@ -1,0 +1,486 @@
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Helpers.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Mvc.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Razor.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Webpages.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Webpages.Razor.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Razor.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Webpages.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Webpages.Razor.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Helpers.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Mvc.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\ApplicationInsights.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.rsp
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.rsp
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.AppContext.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Console.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.Process.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Claims.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Threading.Thread.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.rsp
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Optimization.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\WebGrease.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Optimization.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\ApplicationInsights.config
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll.config
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.pdb
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.exe
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.exe.config
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.rsp
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.exe
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.exe.config
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.rsp
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.AppContext.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Console.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.AccessControl.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Claims.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Threading.Thread.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe.config
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.rsp
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Agent.Intercept.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.ApplicationInsights.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Helpers.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Mvc.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Optimization.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Razor.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\WebGrease.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.pdb
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Helpers.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Mvc.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Optimization.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Razor.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
+G:\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csprojResolveAssemblyReference.cache
+G:\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+G:\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+G:\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\ApplicationInsights.config
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll.config
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\eUseControl.Web.pdb
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.exe
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.exe.config
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csc.rsp
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.exe
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.exe.config
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\csi.rsp
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.AppContext.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Console.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.Process.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Claims.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Threading.Thread.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe.config
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\vbc.rsp
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Helpers.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Mvc.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Optimization.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Razor.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\WebGrease.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.pdb
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Helpers.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Mvc.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Optimization.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.Razor.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csprojResolveAssemblyReference.cache
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+D:\Google Drive\UTM\Anul II\Semestrul II\WT\Laboratories\WT_Lab.2\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\ApplicationInsights.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Web.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csc.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csc.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csc.rsp
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csi.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csi.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csi.rsp
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.AppContext.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Console.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.Process.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.AccessControl.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Claims.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Threading.Thread.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\vbc.rsp
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.BusinessLogic.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Domain.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Helpers.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Mvc.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Optimization.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Razor.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\WebGrease.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.BusinessLogic.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Domain.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Helpers.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Mvc.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Optimization.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Razor.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.xml
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\ApplicationInsights.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Web.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.Web.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csc.exe
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csc.exe.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csc.rsp
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csi.exe
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csi.exe.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\csi.rsp
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Console.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\vbc.exe.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\vbc.rsp
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.BusinessLogic.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Helpers.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Mvc.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Optimization.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Razor.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\WebGrease.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.BusinessLogic.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\Newtonsoft.Json.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Helpers.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Mvc.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Optimization.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.Razor.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CopyComplete
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\bin\eUseControl.BusinessLogic.dll.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.Migrations.CreateTable1.resources
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.Migrations.AddBrand1.resources
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.Migrations.AddProduct1.resources
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.Migrations.AddProduct2.resources

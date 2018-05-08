@@ -1,0 +1,22 @@
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Domain.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.Helpers.pdb
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+D:\Visual Studio 2017 - Executable\WT\Laboratories\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll.config
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\eUseControl.BusinessLogic.pdb
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Desktop\WT_Lab.3\eUseControl\eUseControl.BusinessLogic\obj\Debug\eUseControl.BusinessLogic.csproj.CopyComplete
