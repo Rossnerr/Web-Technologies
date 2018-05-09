@@ -1,4 +1,4 @@
-# Laboratory Work Nr.2
+# Laboratory Work Nr.3
 ### How to start the application
 * Download the application from this repository;
 * Open Microsoft SQL Server Management Studio;
